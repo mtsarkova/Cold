@@ -1,0 +1,21 @@
+header {
+ background-image:url(images/orca.jpeg);
+}
+#wwf  {
+  max-height: 80px;
+  max-width: 40%;
+  position: relative;
+  top: -30px;
+}
+#green {
+  max-height: 30px;
+  max-width: 200px;
+  }
+#ng {
+  max-height: 50px;
+  max-width: 50%;
+}
+#un {
+  max-height: 50px;
+  max-width: 50%;
+}
